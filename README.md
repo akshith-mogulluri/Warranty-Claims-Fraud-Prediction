@@ -1,1 +1,1 @@
-# Warranty-Claims-Fraud-Prediction
+# Warranty Claims Fraud Prediction
