@@ -1,7 +1,9 @@
 # Warranty Claims Fraud Prediction
-![](https://trendsettertelugu.com/wp-content/uploads/2022/12/File-a-warranty-claim.webp)
+
 ## Project Overview
 The aim of this data science project is to predict the authenticity of warranty claims by analyzing various factors such as region, product category, claim value, and more. The dataset used for this project was sourced from Kaggle and comprises 358 rows and 21 columns.
+
+![](https://trendsettertelugu.com/wp-content/uploads/2022/12/File-a-warranty-claim.webp)
 
 ## Data Dictionary
 | Column Name         | Description                                     |
